@@ -1,0 +1,45 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: rgb(4, 2, 11);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+h1 {
+    color: #2ecc71;
+}
+
+
+h1, h2 {
+    color: rgba(10, 6, 24, 0.959);
+}
+
+p {
+    color: #333;
+}
+body {
+    background-image: url('Imagen3.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
